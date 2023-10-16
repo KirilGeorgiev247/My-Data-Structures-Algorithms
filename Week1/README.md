@@ -13,7 +13,9 @@ Output Format:
 Sample Input 0: 
 
 SDA
+
 11
+
 D
 
 Sample Output 0: 
@@ -27,7 +29,9 @@ Explanation 0:
 Sample Input 1: 
 
 foo
+
 2
+
 x
 
 Sample Output 1: 
@@ -61,14 +65,19 @@ Output Format:
 Sample Input 0: 
 
 3
+
 5 2 ABCDA
+
 4 1 DCAB
+
 6 1 ZxyzDE
 
 Sample Output 0: 
 
 A
+
 ABCD
+
 DEZ
 
 # Task 03
@@ -88,11 +97,17 @@ Output Format:
 Sample Input 0: 
 
 5
+
 2
+
 1
+
 100
+
 2
+
 300
+
 40
 
 Sample Output 0: 
@@ -106,15 +121,25 @@ N = 5, K=2, Arr = [1, 100, 2, 300, 40]. От всички K елементни �
 Sample Input 1: 
 
 9
+
 4
+
 10
+
 20
+
 30
+
 1
+
 2
+
 40
+
 4
+
 1000
+
 3
 
 Sample Output 1: 
