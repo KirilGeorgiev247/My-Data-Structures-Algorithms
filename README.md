@@ -9,3 +9,5 @@ Here I post my solutions.
 -> Week5/Task02
 
 -> Week5/Task03
+
+-> Week6/Task02
