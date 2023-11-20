@@ -11,3 +11,5 @@ Here I post my solutions.
 -> Week5/Task03
 
 -> Week6/Task02
+
+-> Week7/Task01
