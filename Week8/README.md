@@ -33,6 +33,8 @@
 -1 5
 ```
 
+***
+
 ### Task 02 ###
 
 # Birthday Seating Problem
@@ -89,6 +91,8 @@
 ```
 2
 ```
+
+***
 
 ### Task 03 ###
 
