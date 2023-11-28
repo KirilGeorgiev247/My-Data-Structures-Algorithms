@@ -48,8 +48,6 @@
 -1
 ```
 
-Please replace the placeholders N, S, P, and Arr[i] with the specific details from your problem statement as needed.
-
 # Task 02 #
 
 Дадени са ви `N` елемента, които се добавят последователно в масив. От вас се иска да принтирате медианата на масива след всяко добавяне.
