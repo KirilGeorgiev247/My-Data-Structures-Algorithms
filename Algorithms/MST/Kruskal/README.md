@@ -16,4 +16,4 @@ Method used in graph theory to find a minimum spanning tree for a connected, und
 
 + Repeat the process: repeat steps 3 to 5 until all vertices are contained in a single tree or all edges have been checked.
 
-completion: the algorithm finishes when there is a single tree left in the forest. This tree is the minimum spanning tree of the graph.
++ Completion: the algorithm finishes when there is a single tree left in the forest. This tree is the minimum spanning tree of the graph.
