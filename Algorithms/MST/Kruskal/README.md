@@ -1,4 +1,4 @@
-#Kruskal
+# Kruskal
 
 Method used in graph theory to find a minimum spanning tree for a connected, undirected graph. It finds a subset of the edges that forms a tree that includes every vertex, where the total weight of all the edges in the tree is minimized. 
 
