@@ -74,8 +74,7 @@ vector<Edge<T>> kruskal(vector<Edge<T>>& edges, int nodesCount) {
         int to = edge.to;
 
         // check if adding this edge creates a cycle
-        if (ds.Find(from) != ds.Find(to)) {
-            ds.Union(from, to);
+        if (ds.Union(from, to)) {
             tree.push_back(edge);
         }
     }
