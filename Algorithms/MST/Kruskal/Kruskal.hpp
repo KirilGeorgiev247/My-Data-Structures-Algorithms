@@ -69,7 +69,7 @@ vector<Edge<T>> kruskal(vector<Edge<T>>& edges, int nodesCount) {
     DisjointSet<int> ds(nodes);
     vector<Edge<T>> tree;
 
-    for (Edge<T>& edge : edges) {
+    for (const Edge<T>& edge : edges) {
         int from = edge.from;
         int to = edge.to;
 
