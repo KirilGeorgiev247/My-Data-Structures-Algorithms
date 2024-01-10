@@ -12,10 +12,8 @@
 
 ## Constraints
 
-```
 - `1 <= x, y <= N <= 10^6`
 - `1 <= M <= 10^6`
-```
 
 ## Output Format
 
