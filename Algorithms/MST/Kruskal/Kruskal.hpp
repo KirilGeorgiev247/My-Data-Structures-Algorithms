@@ -32,11 +32,11 @@ public:
 
         if (size[uParent] < size[vParent]) {
             parent[uParent] = vParent;
-            size[vParent]++;
+            size[vParent] += size[uParent];
         }
         else {
             parent[vParent] = uParent;
-            size[uParent]++;
+            size[uParent] += size[vParent];
         }
         return true;
     }
