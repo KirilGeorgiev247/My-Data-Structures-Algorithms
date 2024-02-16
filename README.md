@@ -1,6 +1,6 @@
 # My-Data-Structures-Algorithms
 
-Here I post my solutions.
+Well - known data structures and algorithms
 
 ## Interesting tasks: 
 
